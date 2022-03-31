@@ -1,2 +1,3 @@
-# capkit
-CAP Kit
+# CapKit
+
+The capkit Java library.
